@@ -3,6 +3,14 @@ const pwaCardContent = pwaCard.querySelector('.card__content');
 const pwaCardDetails = pwaCard.querySelector('.card__details');
 let detailsShown = false;
 
+// execute on every page
+if('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('/serviceWorker.js')
+      .then(() => {
+        console.log('Service worker registered');
+      })
+}
+
 pwaCard.addEventListener('click', (() => {
   if (!detailsShown) {
     detailsShown = true;
