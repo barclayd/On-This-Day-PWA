@@ -1,0 +1,22 @@
+{
+  "name": "on-this-day-pwa",
+  "version": "1.0.0",
+  "description": "Simple PWA with an app-manifest and precaching",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -c-1 -p 8081"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barclayd/On-This-Day-PWA.git"
+  },
+  "author": "Daniel Barclay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barclayd/On-This-Day-PWA/issues"
+  },
+  "homepage": "https://github.com/barclayd/On-This-Day-PWA#readme",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
