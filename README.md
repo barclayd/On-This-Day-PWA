@@ -18,13 +18,15 @@ Learn something new from history relating to the current day with this Progressi
 ### Mobile (iPhone) View
 
 ##### PWA on Home Screen
-![Home Screen](https://user-images.githubusercontent.com/39765499/52076792-5f3a9c00-2587-11e9-959a-1aa36f44f7b6.PNG)
+<img width="832" alt="Home Screen" src="https://user-images.githubusercontent.com/39765499/52076792-5f3a9c00-2587-11e9-959a-1aa36f44f7b6.PNG">
 
 ##### PWA running on iOS 12
-![App](https://user-images.githubusercontent.com/39765499/52076810-65c91380-2587-11e9-9b3c-2c77b41dbba5.jpg)
+
+<img width="832" alt="App" src="https://user-images.githubusercontent.com/39765499/52076810-65c91380-2587-11e9-9b3c-2c77b41dbba5.jpg">
 
 ##### PWA in App Task Switcher
-![Multitasking View](https://user-images.githubusercontent.com/39765499/52076823-6d88b800-2587-11e9-8f2b-647ba3a3e8bc.jpg)
+
+<img width="832" alt="Multitasking View" src="https://user-images.githubusercontent.com/39765499/52076823-6d88b800-2587-11e9-8f2b-647ba3a3e8bc.jpg">
 
 ### Desktop View
 
