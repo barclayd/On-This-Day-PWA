@@ -44,7 +44,12 @@ body, html {
   cursor: pointer;
 }
 
+.card__image {
+  max-width: 100%;
+}
+
 .card__image img {
+  width: 100%;
   max-width: 100%;
 }
 
