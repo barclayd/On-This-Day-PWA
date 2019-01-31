@@ -1,0 +1,31 @@
+{
+  "name": "On This Day in History",
+  "short_name": "On This Day",
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#003366",
+  "theme_color": "#003366",
+  "icons": [
+    {
+      "src": "/src/images/icons/app-icon-96x96",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/src/images/icons/app-icon-144x144",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/src/images/icons/app-icon-256x256",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/src/images/icons/app-icon-512x512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
