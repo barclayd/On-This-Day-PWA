@@ -5,11 +5,24 @@ body, html {
 
 .main-header {
   width: 100%;
-  padding: 20px 0;
+  padding: 1.2vh 0 0.6vh 0;
   text-align: center;
   background-color: #003366;
-  margin-bottom: 36px;
 }
+
+.date-header {
+  width: 100%;
+  padding: 0.15vh 0 0.05vh 0;
+  text-align: center;
+  background: #a1d0ff;
+  margin-bottom: 2.4vh;
+  color: #003366;
+}
+
+#date {
+  font-size: 1rem;
+}
+
 
 .main-header h1 {
   font-size: 2em;
@@ -22,30 +35,17 @@ body, html {
   margin: 0;
   color: #a1d0ff;
 }
-
-#date {
-  color:  #a1d0ff;
-}
-
 .card {
   border: 1px solid #ccc;
   box-shadow: 1px 1px 1px #ccc;
   width: 80%;
   max-width: 800px;
-  margin: 2vh auto;
+  margin: 4vh auto;
   cursor: pointer;
 }
 
 .card__image img {
   max-width: 100%;
-}
-
-.card__image h2 {
-  position: absolute;
-  top: 55%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  font-size: 3rem;
 }
 
 .card__content,
