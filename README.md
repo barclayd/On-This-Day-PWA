@@ -41,10 +41,12 @@ Learn something new from history relating to the current day with this Progressi
 - [x] Offline mode - caches key data
 - [x] Responsive design
 - [x] Retina icon
+- [x] Service worker
+- [x] Manifest.json built for Android and iOS
 
 ### Future Improvements
 
-- [x] Push notifications
-- [x] Improved service worker
-- [x] Connect to API
-- [x] Get location for geographically relevant moments in history
+* Push notifications
+* Improved service worker
+* Connect to API
+* Get location for geographically relevant moments in history
