@@ -1,6 +1,6 @@
 # On This Day
 
-Deployed live: https://on-this-day-pwa.firebaseapp.com/)
+Deployed live: https://on-this-day-pwa.firebaseapp.com/
 
 Learn something new from history relating to the current day with this Progressive Web App using Node.js
 
