@@ -4,11 +4,11 @@ const pwaCardDetails = pwaCard.querySelector('.card__details');
 let detailsShown = false;
 
 // execute on every page
-if('serviceWorker' in navigator) {
+if ('serviceWorker' in navigator) {
   navigator.serviceWorker.register('/serviceWorker.js')
       .then(() => {
-        console.log('Service worker registered');
-      })
+        console.log('SW registered');
+      });
 }
 
 pwaCard.addEventListener('click', (() => {
