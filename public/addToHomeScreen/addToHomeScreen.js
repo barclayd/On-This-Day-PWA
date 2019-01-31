@@ -1,4 +1,13 @@
+/* Add to Homescreen v3.2.3 ~ (c) 2015 Matteo Spinelli ~ @license: http://cubiq.org/license */
 (function (window, document) {
+    /*
+           _   _ _____     _____
+     ___ _| |_| |_   _|___|  |  |___ _____ ___ ___ ___ ___ ___ ___ ___
+    | .'| . | . | | | | . |     | . |     | -_|_ -|  _|  _| -_| -_|   |
+    |__,|___|___| |_| |___|__|__|___|_|_|_|___|___|___|_| |___|___|_|_|
+                                  by Matteo Spinelli ~ http://cubiq.org
+    */
+
 // Check for addEventListener browser support (prevent errors in IE<9)
     var _eventListener = 'addEventListener' in window;
 
